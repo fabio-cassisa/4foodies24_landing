@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 4foodies
 
-## Getting Started
+landing page for a food-tech brand I co-founded.
 
-First, run the development server:
+## context
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+4Foodies is a food-tech project based in Turin, Italy. I co-founded it and have been building the brand from scratch — logo, brand guidelines, mobile app prototypes, and now the web presence. This landing page is the 2024 iteration, rebuilt from the ground up in Next.js after outgrowing the original WordPress site.
+
+## stack
+
+`next.js` · `typescript` · `tailwind css` · `framer motion` · `react`
+
+## structure
+
+```
+src/
+├── app/          # next.js app router
+├── components/   # ui components
+└── lib/          # utilities
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## run locally
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm install
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## status
 
-## Learn More
+🟡 work in progress — the landing is functional but the broader 4Foodies platform (mobile app, backend) is a longer-term project. Design and branding assets were created in Figma and Adobe CC.
 
-To learn more about Next.js, take a look at the following resources:
+## context & role
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+this is a personal venture, not client work. I handle everything: brand design, ui/ux, frontend development, and product direction. the project has evolved over 4+ years from WordPress → custom PHP → Next.js.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<sub>built by [fabio cassisa](https://github.com/fabio-cassisa)</sub>
