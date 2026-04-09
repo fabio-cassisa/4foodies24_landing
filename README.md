@@ -4,7 +4,7 @@ landing page for a food-tech brand, built from the ground up.
 
 ## context
 
-4Foodies is a food-tech project based in Turin, Italy — a personal venture that's been evolving since 2021. everything from brand identity to web presence: logo, brand guidelines, mobile app prototypes, and this landing page. the stack has shifted over the years from WordPress → custom PHP → Next.js as the project (and the skills) grew.
+4Foodies is a food-tech project based in Turin, Italy — a startup that's been evolving since 2021. everything from brand identity to web presence: logo, brand guidelines, mobile app prototypes, and this landing page. the stack has shifted over the years from WordPress → custom PHP → Next.js as the project (and the skills) grew.
 
 ## stack
 
