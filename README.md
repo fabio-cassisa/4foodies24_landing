@@ -1,10 +1,10 @@
 # 4foodies
 
-landing page for a food-tech brand I co-founded.
+landing page for a food-tech brand, built from the ground up.
 
 ## context
 
-4Foodies is a food-tech project based in Turin, Italy. I co-founded it and have been building the brand from scratch — logo, brand guidelines, mobile app prototypes, and now the web presence. This landing page is the 2024 iteration, rebuilt from the ground up in Next.js after outgrowing the original WordPress site.
+4Foodies is a food-tech project based in Turin, Italy — a personal venture that's been evolving since 2021. everything from brand identity to web presence: logo, brand guidelines, mobile app prototypes, and this landing page. the stack has shifted over the years from WordPress → custom PHP → Next.js as the project (and the skills) grew.
 
 ## stack
 
@@ -28,12 +28,8 @@ npm run dev
 
 ## status
 
-🟡 work in progress — the landing is functional but the broader 4Foodies platform (mobile app, backend) is a longer-term project. Design and branding assets were created in Figma and Adobe CC.
-
-## context & role
-
-this is a personal venture, not client work. I handle everything: brand design, ui/ux, frontend development, and product direction. the project has evolved over 4+ years from WordPress → custom PHP → Next.js.
+🟡 work in progress — the landing is functional but the broader platform (mobile app, backend) is a longer-term build. design and branding assets created in Figma and Adobe CC.
 
 ---
 
-<sub>built by [fabio cassisa](https://github.com/fabio-cassisa)</sub>
+<sub>brand, design, and code by [fabio cassisa](https://github.com/fabio-cassisa)</sub>
