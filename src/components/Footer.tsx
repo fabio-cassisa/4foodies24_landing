@@ -7,7 +7,7 @@ export default function Footer() {
             &copy; 2024 4Foodies SRL. All rights reserved.
         </small>
         <p className="text-xs">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque nemo, eligendi dignissimos quia adipisci vel earum illum quos.
+            Cucina artigianale a Torino &mdash; pizza, poke, burger e pasta fatta in casa.
         </p>
     </footer>
   )

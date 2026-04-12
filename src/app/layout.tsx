@@ -7,8 +7,8 @@ import HeaderPill from "@/components/HeaderPill";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "4Foodies",
-  description: "4Foodies - that's it.",
+  title: "4Foodies — Pizza, Poke, Burger & Pasta a Torino",
+  description: "Cucina artigianale a Torino. Pizza, poke bowl, burger e pasta fatta in casa — ordina online da 4Foodies.",
 };
 
 export default function RootLayout({
@@ -17,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="it">
       <body className={`${inter.className} bg-orange-100 text-gray-950 relative`}>
         <HeaderPill />
         {children}

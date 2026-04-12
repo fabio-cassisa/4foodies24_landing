@@ -13,14 +13,6 @@ export const links = [
     name: "Menu",
     hash: "#menu",
   },
-  {
-    name: "Offerte",
-    hash: "#offers",
-  },
-  {
-    name: "About",
-    hash: "#about",
-  },
 ] as const;
 
 const HeaderPill = () => {
